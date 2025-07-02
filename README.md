@@ -1,5 +1,5 @@
 # Hello
 
 ## About me
-- I like tech, especially the aerospace industry. In addition, I have strong passion for coding and Machine Learning. I can work with C/C++, BASH, Python, Java, SQL, in terms of Machine Learning im familiar with libraries such as scikit-learn, numpy and pandas.
+- I like tech and especially the aerospace industry. In addition, I have strong passion for Machine Learning. I love C/C++
 - Student at Faculty of Information Technology CTU in Prague (BCs Computer Science - AI Specialization)
